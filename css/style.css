@@ -1,0 +1,34 @@
+h1 {
+	font-size:8em;
+	color: #fffeed;
+	font: Helvetica;
+	
+}
+
+h5 {
+	font-style: italic;
+	
+}
+
+.card-text {
+	font-size: 3em;
+	color: #fffeed;
+	
+}
+
+.centered-text {
+	text-align: center;
+}
+
+h2.centered-text {
+	font-size: 3em;
+	color: #1d0294;
+	text-align: center;
+}
+
+.white {
+	font-size: 2em;
+	color: #fffeed;
+
+}
+
