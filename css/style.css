@@ -2,6 +2,7 @@ h1 {
 	font-size:8em;
 	color: #fffeed;
 	font: Helvetica;
+	text-shadow: 2px 2px #adafb1;
 	
 }
 
@@ -29,6 +30,6 @@ h2.centered-text {
 .white {
 	font-size: 2em;
 	color: #fffeed;
-
+text-shadow: 1px 1px #adafb1;
 }
 
